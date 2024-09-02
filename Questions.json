@@ -1,0 +1,44 @@
+﻿{
+  "Questions": [
+    {
+      "Question": "1+2=?",
+      "AnswerA": "3",
+      "AnswerB": "2",
+      "AnswerC": "1",
+      "AnswerD": "8",
+      "CorrectAnswer": "A"
+    },
+    {
+      "Question": "3-1=?",
+      "AnswerA": "3",
+      "AnswerB": "2",
+      "AnswerC": "4",
+      "AnswerD": "5",
+      "CorrectAnswer": "B"
+    },
+    {
+      "Question": "2*2=?",
+      "AnswerA": "2",
+      "AnswerB": "5",
+      "AnswerC": "9",
+      "AnswerD": "4",
+      "CorrectAnswer": "D"
+    },
+    {
+      "Question": "4/2=?",
+      "AnswerA": "3",
+      "AnswerB": "7",
+      "AnswerC": "2",
+      "AnswerD": "1",
+      "CorrectAnswer": "C"
+    },
+    {
+      "Question": "3^2=?",
+      "AnswerA": "6",
+      "AnswerB": "1",
+      "AnswerC": "9",
+      "AnswerD": "0",
+      "CorrectAnswer": "C"
+    }
+  ]
+}
